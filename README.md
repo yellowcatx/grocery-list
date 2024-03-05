@@ -1,8 +1,6 @@
 # Grocery List App
 
-![Grocery List App]
 
-(cafe.png)
 
 ## Description
 
