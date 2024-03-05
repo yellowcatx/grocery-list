@@ -1,5 +1,7 @@
 # 🛒 Grocery List App 📝
-(https://github.com/yellowcatx/grocery-list/blob/main/lib/assets/coffee.png)
+
+![Grocery List App](lib/assets/coffee.png)
+
 
 ## Description
 
