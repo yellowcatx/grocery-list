@@ -1,6 +1,6 @@
 # 🛒 Grocery List App 📝
 
-                                  ![Grocery List App](lib/assets/cafe.png)
+![Grocery List App](lib/assets/cafe.png)
 
 
 ## Description
